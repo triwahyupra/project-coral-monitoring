@@ -3,9 +3,9 @@
 This project showcases the experimentation of YOLO (You Only Look Once) as a state-of-the-art real-time object detection system that stands out for its real-time capabilities. The dataset used consists of custom data obtained from a collection of coral reef images gathered during a survey conducted by a Remotely Operated Underwater Vehicle (ROV). Subsequently, the data was manually annotated in Roboflow. The model has been trained to fulfill the requirements of detecting coral life forms for analyzing the impact of climate change on coral biodiversity in a marine survey area.
 
 * Project's title: **Coral Life Forms Detection for Analysis of Climate Change Impact on Coral Biodiversity**
-* Authors: Tri Wahyu Prabowo and Computer Vision Bootcamp Team Oppenheimer-Alan Turing
+* Authors: Tri Wahyu Prabowo
   
-📝 Note: This project is part of the Computer Vision Bootcamp by PT Teknologi Artifisial Indonesia (IndonesiaAI).
+📝 Note: This is a final project of the Computer Vision Bootcamp by PT Teknologi Artifisial Indonesia (IndonesiaAI).
 
 ## ★ Introduction
 
@@ -113,11 +113,13 @@ Performing web deployment using the Roboflow API, please click the image to go t
 
 ## Explore the Code!
 
-The main notebook used for model training can be accessed at the following link:
+The main notebook used for Model Development & Optimization can be accessed at the following link:
 
-[U-Net Training on Cityscapes Dataset](https://github.com/triwahyupra/project3_semantic_segmentation/blob/af88309aac1a4d76d6be73a0663941da9716e8cd/triwahyu_cityscape_segmentation.ipynb)
+[YOLOv3u-Coral Detection](https://github.com/triwahyupra/project-coral-monitoring/blob/fca79479e0ffe6a459b2f97b2736e616fcc504e9/notebook-finalproject/coral-detection-yolov3u.ipynb)
 
-[Inference U-Net on Video](https://github.com/triwahyupra/project3_semantic_segmentation/blob/b77b335e8a3654c225a3ffebe39405097bdd3059/cityscapes_inference_on_video.ipynb)
+[YOLOv5s-Coral Detection](https://github.com/triwahyupra/project-coral-monitoring/blob/fca79479e0ffe6a459b2f97b2736e616fcc504e9/notebook-finalproject/coral-detection-yolov5s.ipynb)
+
+[YOLOv8s-Coral Detection](https://github.com/triwahyupra/project-coral-monitoring/blob/fca79479e0ffe6a459b2f97b2736e616fcc504e9/notebook-finalproject/coral-detection-yolov8s.ipynb)
 
 ## 📧 Contact
 
@@ -125,7 +127,8 @@ If you have any questions, feedback, or would like to contribute to this project
 
 - Nama: [ Tri Wahyu Prabowo ]
 - Email: [ triwahyu@reefgen.io ]
-- LinkedIn: [ [triwahyupra](https://www.linkedin.com/in/triwahyupra) ]
-
+- LinkedIn: [ [Tri Wahyu Prabowo](https://www.linkedin.com/in/triwahyupra) ]
+- Instagram: [ [@triwahyupra](https://www.instagram.com/triwahyupra/) ]
+- 
 Thank you for your support and contributions!
 
